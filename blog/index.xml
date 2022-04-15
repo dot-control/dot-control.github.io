@@ -6,7 +6,18 @@
     <description>Recent content in Blogs on dotControl Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate><atom:link href="https://dotcontrol.thewan.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Apr 2022 21:29:20 +0200</lastBuildDate><atom:link href="https://dotcontrol.thewan.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>dotControl Security iOS App Privacy Policy</title>
+      <link>https://dotcontrol.thewan.io/blog/2022/04/12/apple-ios-privacy-policy/</link>
+      <pubDate>Tue, 12 Apr 2022 21:29:20 +0200</pubDate>
+      
+      <guid>https://dotcontrol.thewan.io/blog/2022/04/12/apple-ios-privacy-policy/</guid>
+      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
+▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
+▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
     <item>
       <title>Categories Post</title>
       <link>https://dotcontrol.thewan.io/blog/2021/08/01/categories-post/</link>
