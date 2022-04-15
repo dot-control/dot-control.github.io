@@ -6,7 +6,26 @@
     <description>Recent content on dotControl Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 12 Apr 2022 21:30:20 +0200</lastBuildDate><atom:link href="https://dotcontrol.thewan.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Apr 2022 19:37:55 +0300</lastBuildDate><atom:link href="https://dotcontrol.thewan.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Security in Google Api Oauth</title>
+      <link>https://dotcontrol.thewan.io/blog/2022/04/15/security-in-google-api-oauth/</link>
+      <pubDate>Fri, 15 Apr 2022 19:37:55 +0300</pubDate>
+      
+      <guid>https://dotcontrol.thewan.io/blog/2022/04/15/security-in-google-api-oauth/</guid>
+      <description>Interesting findings while integrating with Google API Google, as a Cloud Mega Corporation, is making tons of services available to it&amp;rsquo;s customer. Thus it needs comprehensive mechanisms for authentication. From what i see, it heavily relies on the oAuth2 standard. Which is more good than bad :)
+When you are requesting the offline_access for the second time - it will not give you a refresh token haha. because you&amp;rsquo;ve fucked up with the refresh token at the first time :)</description>
+    </item>
+    
+    <item>
+      <title>How to enable Telegram&#39;s Instant View feature for your blog</title>
+      <link>https://dotcontrol.thewan.io/blog/2022/04/13/how-to-make-instantview-for-telegram/</link>
+      <pubDate>Wed, 13 Apr 2022 21:30:20 +0200</pubDate>
+      
+      <guid>https://dotcontrol.thewan.io/blog/2022/04/13/how-to-make-instantview-for-telegram/</guid>
+      <description>Why It&amp;rsquo;s very convenient to click an Instant View button under the post in Telegram to check what&amp;rsquo;s there. Instant View is made by special Telegram Bot and it does not necessarily support your website right away. From what I see, it was designed to work well with static site generators, which define the skeleton of every page really well. The IV bot, in turn, can really well parse that static structure and render the simplified version of the page</description>
+    </item>
+    
     <item>
       <title>Why do you need to pay $99 to Apple to become an Apple developer</title>
       <link>https://dotcontrol.thewan.io/blog/2022/04/12/why-do-you-need-to-pay-apple-to-become-apple-developer/</link>

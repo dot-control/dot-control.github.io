@@ -6,7 +6,16 @@
     <description>Recent content in programming on dotControl Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 12 Apr 2022 21:30:20 +0200</lastBuildDate><atom:link href="https://dotcontrol.thewan.io/categories/programming/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Apr 2022 21:30:20 +0200</lastBuildDate><atom:link href="https://dotcontrol.thewan.io/categories/programming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to enable Telegram&#39;s Instant View feature for your blog</title>
+      <link>https://dotcontrol.thewan.io/blog/2022/04/13/how-to-make-instantview-for-telegram/</link>
+      <pubDate>Wed, 13 Apr 2022 21:30:20 +0200</pubDate>
+      
+      <guid>https://dotcontrol.thewan.io/blog/2022/04/13/how-to-make-instantview-for-telegram/</guid>
+      <description>Why It&amp;rsquo;s very convenient to click an Instant View button under the post in Telegram to check what&amp;rsquo;s there. Instant View is made by special Telegram Bot and it does not necessarily support your website right away. From what I see, it was designed to work well with static site generators, which define the skeleton of every page really well. The IV bot, in turn, can really well parse that static structure and render the simplified version of the page</description>
+    </item>
+    
     <item>
       <title>Why do you need to pay $99 to Apple to become an Apple developer</title>
       <link>https://dotcontrol.thewan.io/blog/2022/04/12/why-do-you-need-to-pay-apple-to-become-apple-developer/</link>

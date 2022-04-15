@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>telegram on dotControl Home</title>
+    <link>https://dotcontrol.thewan.io/tags/telegram/</link>
+    <description>Recent content in telegram on dotControl Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 13 Apr 2022 21:30:20 +0200</lastBuildDate><atom:link href="https://dotcontrol.thewan.io/tags/telegram/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to enable Telegram&#39;s Instant View feature for your blog</title>
+      <link>https://dotcontrol.thewan.io/blog/2022/04/13/how-to-make-instantview-for-telegram/</link>
+      <pubDate>Wed, 13 Apr 2022 21:30:20 +0200</pubDate>
+      
+      <guid>https://dotcontrol.thewan.io/blog/2022/04/13/how-to-make-instantview-for-telegram/</guid>
+      <description>Why It&amp;rsquo;s very convenient to click an Instant View button under the post in Telegram to check what&amp;rsquo;s there. Instant View is made by special Telegram Bot and it does not necessarily support your website right away. From what I see, it was designed to work well with static site generators, which define the skeleton of every page really well. The IV bot, in turn, can really well parse that static structure and render the simplified version of the page</description>
+    </item>
+    
+  </channel>
+</rss>
