@@ -6,11 +6,11 @@
     <description>Recent content in Tags on dotControl Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 12 Apr 2022 21:29:20 +0200</lastBuildDate><atom:link href="https://dotcontrol.thewan.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Apr 2022 21:30:20 +0200</lastBuildDate><atom:link href="https://dotcontrol.thewan.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>app</title>
       <link>https://dotcontrol.thewan.io/tags/app/</link>
-      <pubDate>Tue, 12 Apr 2022 21:29:20 +0200</pubDate>
+      <pubDate>Tue, 12 Apr 2022 21:30:20 +0200</pubDate>
       
       <guid>https://dotcontrol.thewan.io/tags/app/</guid>
       <description></description>
@@ -19,9 +19,18 @@
     <item>
       <title>ios</title>
       <link>https://dotcontrol.thewan.io/tags/ios/</link>
-      <pubDate>Tue, 12 Apr 2022 21:29:20 +0200</pubDate>
+      <pubDate>Tue, 12 Apr 2022 21:30:20 +0200</pubDate>
       
       <guid>https://dotcontrol.thewan.io/tags/ios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>misc</title>
+      <link>https://dotcontrol.thewan.io/tags/misc/</link>
+      <pubDate>Tue, 12 Apr 2022 21:30:20 +0200</pubDate>
+      
+      <guid>https://dotcontrol.thewan.io/tags/misc/</guid>
       <description></description>
     </item>
     

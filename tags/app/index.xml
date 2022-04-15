@@ -6,7 +6,17 @@
     <description>Recent content in app on dotControl Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 12 Apr 2022 21:29:20 +0200</lastBuildDate><atom:link href="https://dotcontrol.thewan.io/tags/app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Apr 2022 21:30:20 +0200</lastBuildDate><atom:link href="https://dotcontrol.thewan.io/tags/app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why do you need to pay $99 to Apple to become an Apple developer</title>
+      <link>https://dotcontrol.thewan.io/blog/2022/04/12/why-do-you-need-to-pay-apple-to-become-apple-developer/</link>
+      <pubDate>Tue, 12 Apr 2022 21:30:20 +0200</pubDate>
+      
+      <guid>https://dotcontrol.thewan.io/blog/2022/04/12/why-do-you-need-to-pay-apple-to-become-apple-developer/</guid>
+      <description>Main drivers Here are my main drivers for paying apple. You only can do these things if you are on a paid tier of Apple Developer track:
+ Publishing Apps Access to Push Notifications Capability Access to NFC Capability Siri Capability  Unlike Google, which charges $25 once, Apple charges anually (and $99). However, once I paid and was reading some collateral materials from Apple, literally in few minutes i was enrolled and I received the needed capabilities in XCode (Push Notifications, including Background Remote mode).</description>
+    </item>
+    
     <item>
       <title>dotControl Security iOS App Privacy Policy</title>
       <link>https://dotcontrol.thewan.io/blog/2022/04/12/apple-ios-privacy-policy/</link>
