@@ -8,6 +8,18 @@
     <language>ru</language>
     <lastBuildDate>Fri, 15 Apr 2022 19:37:55 +0300</lastBuildDate><atom:link href="https://dotcontrol.thewan.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Privacy Policy</title>
+      <link>https://dotcontrol.thewan.io/privacy-policy/</link>
+      <pubDate>Sun, 17 Apr 2022 14:28:33 +0300</pubDate>
+      
+      <guid>https://dotcontrol.thewan.io/privacy-policy/</guid>
+      <description>dotControl Privacy Policy Applied from April 2022 This document you are reading is our Privacy Policy, where you can find out what is going on with your personal data when we were trusted with it.
+It covers 3 main scenarios, when we may deal with your information:
+  through our security devices;
+  through our mobile applications (such as dotControl Security) and web or desktop applications (we call those our Products or Services);</description>
+    </item>
+    
+    <item>
       <title>Security in Google Api Oauth</title>
       <link>https://dotcontrol.thewan.io/blog/2022/04/15/security-in-google-api-oauth/</link>
       <pubDate>Fri, 15 Apr 2022 19:37:55 +0300</pubDate>
