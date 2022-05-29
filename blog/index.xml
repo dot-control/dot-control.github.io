@@ -6,7 +6,16 @@
     <description>Recent content in Blogs on dotControl Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 15 Apr 2022 19:37:55 +0300</lastBuildDate><atom:link href="https://dotcontrol.thewan.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Apr 2022 12:09:39 +0300</lastBuildDate><atom:link href="https://dotcontrol.thewan.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Serving .well-known Files via Hugo on Github</title>
+      <link>https://dotcontrol.thewan.io/blog/2022/04/22/serving-.well-known-files-via-hugo-on-github/</link>
+      <pubDate>Fri, 22 Apr 2022 12:09:39 +0300</pubDate>
+      
+      <guid>https://dotcontrol.thewan.io/blog/2022/04/22/serving-.well-known-files-via-hugo-on-github/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Security in Google Api Oauth</title>
       <link>https://dotcontrol.thewan.io/blog/2022/04/15/security-in-google-api-oauth/</link>

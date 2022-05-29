@@ -2,14 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dotcontrol.thewan.io/privacy-policy/</loc>
-    <lastmod>2022-04-17T14:28:33+03:00</lastmod>
+    <loc>https://dotcontrol.thewan.io/app/</loc>
+    <lastmod>2022-04-30T19:16:21+03:00</lastmod>
   </url><url>
     <loc>https://dotcontrol.thewan.io/blog/</loc>
-    <lastmod>2022-04-15T19:37:55+03:00</lastmod>
+    <lastmod>2022-04-22T12:09:39+03:00</lastmod>
   </url><url>
     <loc>https://dotcontrol.thewan.io/</loc>
-    <lastmod>2022-04-15T19:37:55+03:00</lastmod>
+    <lastmod>2022-04-22T12:09:39+03:00</lastmod>
+  </url><url>
+    <loc>https://dotcontrol.thewan.io/blog/2022/04/22/serving-.well-known-files-via-hugo-on-github/</loc>
+    <lastmod>2022-04-22T12:09:39+03:00</lastmod>
+  </url><url>
+    <loc>https://dotcontrol.thewan.io/privacy-policy/</loc>
+    <lastmod>2022-04-17T14:28:33+03:00</lastmod>
   </url><url>
     <loc>https://dotcontrol.thewan.io/blog/2022/04/15/security-in-google-api-oauth/</loc>
     <lastmod>2022-04-15T19:37:55+03:00</lastmod>
